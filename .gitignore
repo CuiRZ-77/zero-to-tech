@@ -24,4 +24,5 @@ backend/.venv/
 __pycache__/
 *.py[cod]
 backend/*.db
+test.db
 backend/.env/
